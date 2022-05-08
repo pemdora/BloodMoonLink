@@ -1,14 +1,11 @@
 fileFormatVersion: 2
-guid: 5052cdd3b9abb6549a6fcbfbb32d6ca1
+guid: 92e88091f6b23fb4589cb7357cfa42fe
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable:
   - first:
-      74: -5515048667552429711
-    second: Morak_Walk
-  - first:
-      74: -7997666852649521172
-    second: mixamo.com 1
+      74: 7988727121564347312
+    second: Morak_Trot
   externalObjects: {}
   materials:
     materialImportMode: 2
