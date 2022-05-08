@@ -8,7 +8,7 @@ ModelImporter:
     second: Morak_Trot
   - first:
       74: -203655887218126122
-    second: mixamo.com
+    second: Morak_Trot
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -39,7 +39,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: mixamo.com
+      name: Morak_Trot
       takeName: mixamo.com
       internalID: 0
       firstFrame: 0

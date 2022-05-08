@@ -8,7 +8,7 @@ ModelImporter:
     second: Morak_Walk
   - first:
       74: -7997666852649521172
-    second: mixamo.com 1
+    second: Morak_Walk
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -39,7 +39,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: mixamo.com 1
+      name: Morak_Walk
       takeName: mixamo.com 1
       internalID: 0
       firstFrame: 0
