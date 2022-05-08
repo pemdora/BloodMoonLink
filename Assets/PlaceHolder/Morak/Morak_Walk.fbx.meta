@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: e1bd6bd224dc67a4382b653089574703
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -5515048667552429711
+    second: Morak_Walk
+  - first:
+      74: -7997666852649521172
+    second: mixamo.com 1
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com 1
+      takeName: mixamo.com 1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Morak:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Morak:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Morak(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak_GEO
+      parentName: Morak(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:Root
+      parentName: Morak(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:Hips
+      parentName: Morak:Root
+      position: {x: -0, y: 0.97999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:Spine
+      parentName: Morak:Hips
+      position: {x: -0, y: 0.11654694, z: -0.0077970754}
+      rotation: {x: 6.6177486e-10, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:Spine1
+      parentName: Morak:Spine
+      position: {x: -0, y: 0.1362754, z: 2.36641e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:Spine2
+      parentName: Morak:Spine1
+      position: {x: -0, y: 0.15574333, z: 1.3295419e-10}
+      rotation: {x: 4.3646694e-26, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:Neck
+      parentName: Morak:Spine2
+      position: {x: -0, y: 0.17521118, z: 0.0000000024258702}
+      rotation: {x: 0.008060568, y: -0, z: -0, w: 0.9999676}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:Head
+      parentName: Morak:Neck
+      position: {x: -0, y: 0.005541382, z: 0.002889049}
+      rotation: {x: -0.033394393, y: 0, z: -0, w: 0.9994423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:HeadTop_End
+      parentName: Morak:Head
+      position: {x: -0, y: 0.24441864, z: 0.12742974}
+      rotation: {x: 6.938894e-18, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftShoulder
+      parentName: Morak:Spine2
+      position: {x: -0.073858544, y: 0.16403852, z: -0.0012392089}
+      rotation: {x: 0.5326055, y: -0.46378553, z: 0.54175454, w: 0.45578107}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftArm
+      parentName: Morak:LeftShoulder
+      position: {x: 4.7593252e-11, y: 0.14705868, z: -0.0000000010083888}
+      rotation: {x: -0.07738517, y: 0.0014539262, z: 0.017523672, w: 0.9968462}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftForeArm
+      parentName: Morak:LeftArm
+      position: {x: -0.0000000010199377, y: 0.23493044, z: -0.0000000017743493}
+      rotation: {x: 0.000000008947983, y: -0.0000000022297768, z: -0.02617695, w: 0.99965733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHand
+      parentName: Morak:LeftForeArm
+      position: {x: 2.4814842e-10, y: 0.27658522, z: -7.079933e-11}
+      rotation: {x: 0.04503792, y: 0.0000000023391196, z: 0.000000003355314, w: 0.9989853}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandThumb1
+      parentName: Morak:LeftHand
+      position: {x: 0.029320471, y: 0.02783832, z: 0.0041961283}
+      rotation: {x: 0.047079258, y: -0.021446478, z: -0.4139975, w: 0.90880674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandThumb2
+      parentName: Morak:LeftHandThumb1
+      position: {x: -0.0014091325, y: 0.032487955, z: 1.0827363e-10}
+      rotation: {x: -0.019212939, y: -1.26740895e-17, z: 2.7517149e-17, w: 0.9998154}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandThumb3
+      parentName: Morak:LeftHandThumb2
+      position: {x: -0.0030705424, y: 0.0347272, z: 1.754671e-11}
+      rotation: {x: -0.019962963, y: -0.0015871337, z: 0.085711874, w: 0.9961187}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandThumb4
+      parentName: Morak:LeftHandThumb3
+      position: {x: 0.004479675, y: 0.030665895, z: -3.6458855e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandIndex1
+      parentName: Morak:LeftHand
+      position: {x: 0.030338075, y: 0.099991694, z: 0.003871712}
+      rotation: {x: -0.03819507, y: 0.0106001245, z: -0.11102961, w: 0.9930263}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandIndex2
+      parentName: Morak:LeftHandIndex1
+      position: {x: 0.000034595127, y: 0.030365506, z: 9.613387e-11}
+      rotation: {x: 0.02993575, y: -1.3871568e-17, z: 4.1544198e-19, w: 0.99955183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandIndex3
+      parentName: Morak:LeftHandIndex2
+      position: {x: -0.0008540039, y: 0.028899461, z: -0.00014525189}
+      rotation: {x: 0.04624195, y: -0.0010157921, z: -0.016701782, w: 0.9987901}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandIndex4
+      parentName: Morak:LeftHandIndex3
+      position: {x: -0.0037940028, y: 0.026295284, z: -0.0021362093}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandMiddle1
+      parentName: Morak:LeftHand
+      position: {x: 0.008466469, y: 0.09922863, z: 0.0002511524}
+      rotation: {x: -0.04121378, y: 0.001166965, z: -0.028279545, w: 0.99874943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandMiddle2
+      parentName: Morak:LeftHandMiddle1
+      position: {x: 0.0012371235, y: 0.044533662, z: 0.0005816172}
+      rotation: {x: -0.009433015, y: 7.069495e-18, z: -1.3811716e-17, w: 0.99995553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandMiddle3
+      parentName: Morak:LeftHandMiddle2
+      position: {x: -0.00018805575, y: 0.0295092, z: -0.000024589446}
+      rotation: {x: 0.03873455, y: -5.375499e-19, z: -1.3867374e-17, w: 0.9992496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandMiddle4
+      parentName: Morak:LeftHandMiddle3
+      position: {x: 0.000007053535, y: 0.026328677, z: -1.8530386e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandRing1
+      parentName: Morak:LeftHand
+      position: {x: -0.011122087, y: 0.09904873, z: 0.00038639922}
+      rotation: {x: -0.020722872, y: -0.001017987, z: 0.049054004, w: 0.99858063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandRing2
+      parentName: Morak:LeftHandRing1
+      position: {x: 0.0038558873, y: 0.042643245, z: 0.00002724128}
+      rotation: {x: -0.017207643, y: 0, z: -0, w: 0.99985194}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandRing3
+      parentName: Morak:LeftHandRing2
+      position: {x: 0.00072915293, y: 0.02521443, z: 0.0000862517}
+      rotation: {x: 0.0410917, y: 0.000073083866, z: -0.0014993094, w: 0.99915427}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandRing4
+      parentName: Morak:LeftHandRing3
+      position: {x: 0.00002083129, y: 0.022833552, z: 1.3672888e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandPinky1
+      parentName: Morak:LeftHand
+      position: {x: -0.03266819, y: 0.09054605, z: 0.0029533808}
+      rotation: {x: -0.023993034, y: -0.0033081085, z: 0.034085386, w: 0.9991254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandPinky2
+      parentName: Morak:LeftHandPinky1
+      position: {x: -0.000026452797, y: 0.029036323, z: -5.987033e-12}
+      rotation: {x: -0.00338868, y: -5.878423e-21, z: 1.7347135e-18, w: 0.9999943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandPinky3
+      parentName: Morak:LeftHandPinky2
+      position: {x: -0.000024461711, y: 0.024850667, z: 1.8967512e-11}
+      rotation: {x: 0.039881766, y: 0.000029708455, z: 0.0008553423, w: 0.99920404}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftHandPinky4
+      parentName: Morak:LeftHandPinky3
+      position: {x: 0.000050914525, y: 0.01892296, z: 3.7403936e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightShoulder
+      parentName: Morak:Spine2
+      position: {x: 0.073858544, y: 0.16397302, z: -0.00026008932}
+      rotation: {x: -0.53642553, y: -0.46043918, z: 0.53838605, w: -0.45867625}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightArm
+      parentName: Morak:RightShoulder
+      position: {x: -7.593767e-11, y: 0.14705868, z: -0.000000001006461}
+      rotation: {x: -0.07782397, y: -0.0019390439, z: -0.02423638, w: 0.9966706}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightForeArm
+      parentName: Morak:RightArm
+      position: {x: 3.1975253e-10, y: 0.23527084, z: -0.0000000020691149}
+      rotation: {x: -0.00008966071, y: 0.0034238559, z: 0.052111, w: 0.9986355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHand
+      parentName: Morak:RightForeArm
+      position: {x: -1.935757e-10, y: 0.2765564, z: -2.8056946e-10}
+      rotation: {x: 0.014249734, y: -0.0037946159, z: -0.025900457, w: 0.99955577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandThumb1
+      parentName: Morak:RightHand
+      position: {x: -0.029974066, y: 0.030577116, z: 0.0044165635}
+      rotation: {x: 0.047624864, y: 0.01925993, z: 0.37441668, w: 0.92583644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandThumb2
+      parentName: Morak:RightHandThumb1
+      position: {x: -0.00023413742, y: 0.034435578, z: -1.8502305e-10}
+      rotation: {x: -0.021160875, y: 7.524673e-18, z: -2.7602527e-17, w: 0.99977607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandThumb3
+      parentName: Morak:RightHandThumb2
+      position: {x: 0.00033881425, y: 0.033334985, z: 3.1535477e-10}
+      rotation: {x: -0.040056583, y: -0.00008162911, z: -0.0028196, w: 0.99919343}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandThumb4
+      parentName: Morak:RightHandThumb3
+      position: {x: -0.000104672195, y: 0.026126703, z: 4.258453e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandIndex1
+      parentName: Morak:RightHand
+      position: {x: -0.032223437, y: 0.10188788, z: 0.0024905028}
+      rotation: {x: -0.058725245, y: -0.0062441053, z: 0.09277745, w: 0.993934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandIndex2
+      parentName: Morak:RightHandIndex1
+      position: {x: 0.00000015231767, y: 0.030304901, z: -6.234529e-11}
+      rotation: {x: 0.026783109, y: 7.433806e-19, z: 2.774562e-17, w: 0.9996413}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandIndex3
+      parentName: Morak:RightHandIndex2
+      position: {x: 0.000044914545, y: 0.029763168, z: -4.3403645e-11}
+      rotation: {x: -0.040517602, y: 0.0000033399813, z: -0.00057392434, w: 0.99917865}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandIndex4
+      parentName: Morak:RightHandIndex3
+      position: {x: -0.000045065342, y: 0.024749001, z: 5.4260796e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandMiddle1
+      parentName: Morak:RightHand
+      position: {x: -0.009266647, y: 0.10387598, z: 0.0016402733}
+      rotation: {x: -0.06604266, y: -0.00016613281, z: 0.0065880776, w: 0.9977951}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandMiddle2
+      parentName: Morak:RightHandMiddle1
+      position: {x: -0.000019103354, y: 0.033710774, z: -9.7546714e-11}
+      rotation: {x: 0.014359159, y: 1.3876358e-17, z: -1.9927337e-19, w: 0.99989694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandMiddle3
+      parentName: Morak:RightHandMiddle2
+      position: {x: -0.0000059326608, y: 0.03308296, z: 2.959379e-10}
+      rotation: {x: 0.03970006, y: 0.000013821616, z: 0.000264342, w: 0.9992116}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandMiddle4
+      parentName: Morak:RightHandMiddle3
+      position: {x: 0.000025036354, y: 0.028175911, z: -8.425871e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandRing1
+      parentName: Morak:RightHand
+      position: {x: 0.00970495, y: 0.10365709, z: -0.0010974006}
+      rotation: {x: 0.0024627482, y: -0.0001428162, z: -0.038063224, w: 0.99927235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandRing2
+      parentName: Morak:RightHandRing1
+      position: {x: -0.000010983095, y: 0.031140827, z: -3.6591244e-11}
+      rotation: {x: -0.04035764, y: -0.000001707114, z: 0.0001612611, w: 0.9991854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandRing3
+      parentName: Morak:RightHandRing2
+      position: {x: 0.000014423291, y: 0.029523624, z: 1.2111059e-11}
+      rotation: {x: 0.041119736, y: 0.0000015890896, z: -0.000055907192, w: 0.9991542}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandRing4
+      parentName: Morak:RightHandRing3
+      position: {x: -0.0000034401648, y: 0.026037902, z: 1.1743935e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandPinky1
+      parentName: Morak:RightHand
+      position: {x: 0.031785127, y: 0.08884513, z: 0.0026455314}
+      rotation: {x: -0.018793736, y: 0.008493729, z: -0.028380394, w: 0.99938446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandPinky2
+      parentName: Morak:RightHandPinky1
+      position: {x: 0.000015080424, y: 0.02966922, z: 6.103164e-11}
+      rotation: {x: 0.012997196, y: 6.938308e-18, z: -9.0186164e-20, w: 0.99991554}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandPinky3
+      parentName: Morak:RightHandPinky2
+      position: {x: -0.000004471769, y: 0.025346862, z: -1.1987424e-11}
+      rotation: {x: 0.0073031336, y: 0, z: -0, w: 0.99997336}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightHandPinky4
+      parentName: Morak:RightHandPinky3
+      position: {x: -0.000010608588, y: 0.022441544, z: -2.9492353e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftUpLeg
+      parentName: Morak:Hips
+      position: {x: -0.115501955, y: -0.06484505, z: 0.00044462204}
+      rotation: {x: 9.749342e-11, y: -0.0000000022389819, z: 1, w: 8.5727164e-10}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftLeg
+      parentName: Morak:LeftUpLeg
+      position: {x: 3.1522795e-10, y: 0.42589706, z: -0.0000000013135796}
+      rotation: {x: 0.0000000022817637, y: 2.3608798e-10, z: 0.0000000017046914, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftFoot
+      parentName: Morak:LeftLeg
+      position: {x: 0.0000000017089045, y: 0.36836192, z: -0.0000000016533833}
+      rotation: {x: 0.46174863, y: 0.0000000037554035, z: -7.570459e-10, w: 0.8870109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftToeBase
+      parentName: Morak:LeftFoot
+      position: {x: -8.382215e-10, y: 0.19100307, z: 0.0000000026824358}
+      rotation: {x: 0.31646442, y: 0.07040799, z: -0.023561131, w: 0.9456944}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:LeftToe_End
+      parentName: Morak:LeftToeBase
+      position: {x: 8.7592217e-10, y: 0.0746042, z: 1.4893404e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightUpLeg
+      parentName: Morak:Hips
+      position: {x: 0.115501955, y: -0.06484505, z: 0.009628696}
+      rotation: {x: -6.866725e-11, y: -0.0000000028225566, z: 1, w: 2.0209506e-10}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightLeg
+      parentName: Morak:RightUpLeg
+      position: {x: -8.0978463e-10, y: 0.42689174, z: -8.336227e-10}
+      rotation: {x: 0.0000000028149054, y: -4.3218533e-11, z: 6.9681516e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightFoot
+      parentName: Morak:RightLeg
+      position: {x: -0.0000000013737664, y: 0.36845705, z: -0.0000000043860915}
+      rotation: {x: 0.46174863, y: 0.000000001394358, z: 0.0000000013712542, w: 0.8870109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightToeBase
+      parentName: Morak:RightFoot
+      position: {x: -3.7421058e-10, y: 0.19299889, z: -0.0000000018056746}
+      rotation: {x: 0.31185326, y: -0.07996356, z: 0.02634942, w: 0.9463927}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Morak:RightToe_End
+      parentName: Morak:RightToeBase
+      position: {x: -2.2449582e-10, y: 0.072465755, z: 3.8224854e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 6d0cb3ce81321c949a7dedfb27ed357d, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
